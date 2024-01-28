@@ -16,7 +16,7 @@ Pour cela il y a mon portfolio : https://portfolio-trax.netlify.app/
 ![](https://github-profile-trophy.vercel.app/?username=traxxouu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🐦 Dernier Tweet
-[![](https://gtce.itsvg.in/api?username=@Fra_Trax)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=@traxxouu)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Citation aléatoire d'un développeur
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
