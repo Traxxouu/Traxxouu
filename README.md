@@ -1,5 +1,5 @@
 # 💫 Carte Numérique:
-   ➡️ • https://portfolio-trax.netlify.app/ 
+   ➡️ • https://traxxouu-card.netlify.app/
 
 
 ## 🌐 Réseaux Sociaux
