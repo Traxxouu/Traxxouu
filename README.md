@@ -1,5 +1,5 @@
-# 💫 À propos de moi:
-Pour cela il y a mon portfolio : https://portfolio-trax.netlify.app/ 
+# 💫 Carte Numérique:
+Ici : https://portfolio-trax.netlify.app/ 
 
 
 ## 🌐 Réseaux Sociaux
