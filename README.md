@@ -224,6 +224,9 @@ No Activity Tracked This Week
   <a href="http://maelbarbe.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
+  <a href="https://buymeacoffee.com/barbemael7y">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </p>
 
 <br/>
@@ -233,10 +236,6 @@ No Activity Tracked This Week
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Merci+d'être+passé+!;Construisons+quelque+chose+d'incroyable;ensemble;Maël+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/><br/>
-
-
 
 <br/><br/>
 
