@@ -118,6 +118,11 @@ const traxxouu = {
 <div align="center">
   <img src="./lain.gif" alt="Lain" width="450"/>
 </div>
+</td>
+</tr>
+</table>
+
+---
 
 ### ⏱️ Coding Activity
 
@@ -180,12 +185,6 @@ No Activity Tracked This Week
 
  Last Updated on 19/01/2026 21:04:11 UTC
 <!--END_SECTION:waka-->
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
