@@ -31,10 +31,11 @@
   <img src="./coboy.gif" alt="Cowboy Bebop" width="500"/>
 </div>
 
-### ⚡ Recent GitHub Activity
+#### 🎧 Recently Played
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=hcdaqsi7zbojx6yy9stnsakne&count=3&width=400" alt="Spotify Recently Played"/>
+</p>
 
 </td>
 <td width="55%" valign="top">
@@ -111,6 +112,7 @@ const traxxouu = {
 #### 📊 GitHub Stats
 
 ![Traxxouu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Traxxouu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Traxxouu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35)
 
 </td>
 <td width="50%" valign="top">
@@ -121,19 +123,29 @@ const traxxouu = {
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Traxxouu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35)
-#### 🎯 Currently
+#### 🎵 Spotify Now Playing
 
-![Learning at](https://img.shields.io/badge/Learning-FullStack-FF6B35?style=for-the-badge&logo=security&logoColor=white)
-![Working](https://img.shields.io/badge/Working-solo-FF6B35?style=for-the-badge&logoColor=white)
-![Building](https://img.shields.io/badge/Building-YourWeb-FF6B35?style=for-the-badge&logo=next.js&logoColor=white)
-
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hcdaqsi7zbojx6yy9stnsakne&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=FF6B35&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+</p>
 
 </td>
 </tr>
 </table>
 
 ---
+
+
+#### 🎯 Currently
+
+![Learning at](https://img.shields.io/badge/Learning-FullStack-FF6B35?style=for-the-badge&logo=security&logoColor=white)
+![Working](https://img.shields.io/badge/Working-solo-FF6B35?style=for-the-badge&logoColor=white)
+![Building](https://img.shields.io/badge/Building-YourWeb-FF6B35?style=for-the-badge&logo=next.js&logoColor=white)
+
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### ⏱️ Coding Activity
 
