@@ -109,7 +109,7 @@ const traxxouu = {
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="./lain.gif" alt="Lain" width="500"/>
+  <img src="./lain.gif" alt="Lain" width="450"/>
 </div>
 
 </td>
