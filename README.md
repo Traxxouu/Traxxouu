@@ -31,8 +31,13 @@
   <img src="./coboy.gif" alt="Cowboy Bebop" width="500"/>
 </div>
 
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 </td>
-<td width="65%" valign="top">
+<td width="55%" valign="top">
 
 #### 🎨 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -63,6 +68,8 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
 
 </td>
 </tr>
@@ -112,18 +119,17 @@ const traxxouu = {
   <img src="./lain.gif" alt="Lain" width="450"/>
 </div>
 
-</td>
-</tr>
-</table>
-
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+</td>
+</tr>
+</table>
+
+
+
 ---
 
-### ⚡ Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
