@@ -118,6 +118,17 @@ const traxxouu = {
 <div align="center">
   <img src="./lain.gif" alt="Lain" width="450"/>
 </div>
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Traxxouu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35)
+#### 🎯 Currently
+
+![Learning at](https://img.shields.io/badge/Learning-FullStack-FF6B35?style=for-the-badge&logo=security&logoColor=white)
+![Working](https://img.shields.io/badge/Working-solo-FF6B35?style=for-the-badge&logoColor=white)
+![Building](https://img.shields.io/badge/Building-YourWeb-FF6B35?style=for-the-badge&logo=next.js&logoColor=white)
+
+
 </td>
 </tr>
 </table>
