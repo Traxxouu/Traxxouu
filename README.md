@@ -122,6 +122,63 @@ const traxxouu = {
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.18%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 73 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                266 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+🌆 Daytime                462 commits         ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+🌃 Evening                451 commits         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+🌙 Night                  546 commits         ████████░░░░░░░░░░░░░░░░░   31.65 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   416 commits         ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Tuesday                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Wednesday                165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Thursday                 367 commits         █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Friday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Saturday                 214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Sunday                   211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 19/01/2026 21:04:11 UTC
 <!--END_SECTION:waka-->
 
 </td>
