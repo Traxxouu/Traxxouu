@@ -145,7 +145,7 @@ const traxxouu = {
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/MaxRohowsky/best-github-profile-readme/pull/21) in [MaxRohowsky/best-github-profile-readme](https://github.com/MaxRohowsky/best-github-profile-readme)
+1. 🔒 Closed issue [#1](https://github.com/Traxxouu/Traxxouu/issues/1) in [Traxxouu/Traxxouu](https://github.com/Traxxouu/Traxxouu)
 <!--END_SECTION:activity-->
 
 ### ⏱️ Coding Activity
