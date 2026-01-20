@@ -231,11 +231,12 @@ No Activity Tracked This Week
 
 <br/>
 
-### 🚀 Contribution Space Journey
+### 🟡 PAC-MAN Contribution Eater
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Traxxouu/Traxxouu/output/ocean.gif" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Traxxouu/Traxxouu/output/pacman.gif" alt="Pac-Man animation" />
 </div>
+
 
 ### See You Space Cowboy... ☄️
 

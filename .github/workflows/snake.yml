@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pac-Man
 
 on:
   schedule:
@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Generate Snake
+      - name: Generate Pac-Man
         uses: Platane/snk@v3
         with:
           github_user_name: Traxxouu
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/pacman.gif?color_snake=#FFFF00&color_dots=#1e1e1e,#0e4429,#006d32,#26a641,#39d353
             
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
