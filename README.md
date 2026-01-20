@@ -231,6 +231,12 @@ No Activity Tracked This Week
 
 <br/>
 
+### 🚀 Contribution Space Journey
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Traxxouu/Traxxouu/output/ocean.gif" alt="Snake animation" />
+</div>
+
 ### See You Space Cowboy... ☄️
 
 <br/>
