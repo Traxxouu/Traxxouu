@@ -223,7 +223,7 @@ Windows                  50 mins             ███████████�
     <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
   <a href="https://buymeacoffee.com/barbemael7y">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/🍺%20Buy%20Me%20A%20Beer-FF6B35?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
