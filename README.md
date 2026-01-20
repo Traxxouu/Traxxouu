@@ -232,7 +232,7 @@ No Activity Tracked This Week
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Traxxouu/Traxxouu/output/pacman.gif" alt="Pac-Man animation" />
+  <img src="https://raw.githubusercontent.com/Traxxouu/Traxxouu/output/pacman-dark.svg" alt="Pac-Man animation" />
 </div>
 
 
