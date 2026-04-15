@@ -145,7 +145,7 @@ const traxxouu = {
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/hugo94110/Projet-Labyrinthe/pull/1) in [hugo94110/Projet-Labyrinthe](https://github.com/hugo94110/Projet-Labyrinthe)
+1. 🎉 Merged PR [#1](https://github.com/Traxxouu/not-working/pull/1) in [Traxxouu/not-working](https://github.com/Traxxouu/not-working)
 <!--END_SECTION:activity-->
 
 ### ⏱️ Coding Activity
