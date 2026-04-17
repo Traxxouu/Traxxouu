@@ -145,7 +145,7 @@ const traxxouu = {
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Traxxouu/not-working/pull/13) in [Traxxouu/not-working](https://github.com/Traxxouu/not-working)
+1. 🎉 Merged PR [#15](https://github.com/Traxxouu/not-working/pull/15) in [Traxxouu/not-working](https://github.com/Traxxouu/not-working)
 <!--END_SECTION:activity-->
 
 ### ⏱️ Coding Activity
