@@ -11,10 +11,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="./drstone.gif" alt="Dr Stone" width="1900"/>
-</div>
-
 ### 📊 My Activity Graph
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Traxxouu&theme=github-dark-dimmed&custom_title=Traxxouu%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
