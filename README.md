@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./traxxouu.gif" alt="Traxxouu" width="1020"/>
-</div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/maelbarbe/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -144,73 +140,13 @@ const traxxouu = {
 1. 🎉 Merged PR [#15](https://github.com/Traxxouu/not-working/pull/15) in [Traxxouu/not-working](https://github.com/Traxxouu/not-working)
 <!--END_SECTION:activity-->
 
-### ⏱️ Coding Activity
+## 🏆 Certifications and badges
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2039%20mins-blue?style=flat)
+🎓 Certifications
+<table align="center"> <tr> <td align="center"> <img src="https://maelbarbe.vercel.app/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fi5k5disy%2Fproduction%2Fc54c3cc0d0a3162adea07977dd4998c832f27234-1045x814.png%3Frect%3D0%2C15%2C1045%2C784%26w%3D1200%26h%3D900&w=828&q=75" width="250"/><br/> <b>Google Analytics Certification</b> </td> <td align="center"> <img src="https://maelbarbe.vercel.app/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fi5k5disy%2Fproduction%2F1f6a137c54a6a7f6a08de502a2d76db0a3ccf650-1055x813.png%3Frect%3D0%2C12%2C1055%2C791%26w%3D1200%26h%3D900&w=828&q=75" width="250"/><br/> <b>Google Ads Measurement Certification</b> </td> </tr> </table>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.94%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 280 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-🌆 Daytime                559 commits         ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-🌃 Evening                527 commits         ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-🌙 Night                  672 commits         █████████░░░░░░░░░░░░░░░░   34.13 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   444 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Tuesday                  162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Wednesday                257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Thursday                 313 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Friday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 277 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Sunday                   257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-HTML                     22 mins             ████████░░░░░░░░░░░░░░░░░   33.76 % 
-JavaScript               18 mins             ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-Other                    17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-TypeScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-
-🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Traxxouushop             32 mins             ████████████░░░░░░░░░░░░░   48.11 % 
-trailhead                20 mins             ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-tradeos-electron         14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-
-💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 29/04/2026 13:54:11 UTC
-<!--END_SECTION:waka-->
+🏅 Badges
+<table align="center"> <tr> <td align="center"> <img src="https://maelbarbe.vercel.app/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fi5k5disy%2Fproduction%2F6a8341f5aa4b724b9f089a5d433c104c9b61ff80-512x512.png%3Frect%3D0%2C64%2C512%2C384%26w%3D1200%26h%3D900&w=828&q=75" width="150"/><br/> <b>Badge bases de l'IA générative</b> </td> </tr> </table>
 
 <div align="center">
 
