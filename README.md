@@ -137,7 +137,7 @@ const traxxouu = {
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Traxxouu/not-working/pull/15) in [Traxxouu/not-working](https://github.com/Traxxouu/not-working)
+1. 🎉 Merged PR [#2](https://github.com/Traxxouu/receiptReader/pull/2) in [Traxxouu/receiptReader](https://github.com/Traxxouu/receiptReader)
 <!--END_SECTION:activity-->
 
 ## 🏆 Certifications and badges
