@@ -137,7 +137,7 @@ const traxxouu = {
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Traxxouu/receiptReader/pull/12) in [Traxxouu/receiptReader](https://github.com/Traxxouu/receiptReader)
+1. 🎉 Merged PR [#1](https://github.com/audyodev-create/acme-checkout-service/pull/1) in [audyodev-create/acme-checkout-service](https://github.com/audyodev-create/acme-checkout-service)
 <!--END_SECTION:activity-->
 
 ## 🏆 Certifications and badges
