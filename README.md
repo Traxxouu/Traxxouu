@@ -9,7 +9,7 @@
 
 ### 📊 My Activity Graph
 
-[![activity graph](https://github-activity-graph.luckylinux.dev/graph?username=Traxxouu&theme=github-dark-dimmed&custom_title=Traxxouu%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-activity-graph.luckylinux.dev/graph?username=Traxxouu&theme=high-contrast&custom_title=Traxxouu%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
