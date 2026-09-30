@@ -96,8 +96,7 @@ const traxxouu = {
         "Gaming (Faceit -> CS2)",
         "Entrepreneurship"
     ],
-    
-    funFact: "AMOR FATI"
+
 };
 ```
 
@@ -118,9 +117,8 @@ const traxxouu = {
 #### 🎵 Spotify Now Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hcdaqsi7zbojx6yy9stnsakne&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=FF6B35&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hcdaqsi7zbojx6yy9stnsakne&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
 </p>
-
 </td>
 </tr>
 </table>
