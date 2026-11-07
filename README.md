@@ -96,16 +96,12 @@ const traxxouu = {
 };
 ```
 
-<div align="center">
-  <img src="./lain.gif" alt="Lain" width="450"/>
-</div>
-
-<br/>
-
 #### 🎵 Spotify Now Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hcdaqsi7zbojx6yy9stnsakne&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+  <img src="./lain.gif" alt="Lain" height="380"/>
+  &nbsp;&nbsp;
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hcdaqsi7zbojx6yy9stnsakne&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" height="380"/>
 </p>
 
 ---
