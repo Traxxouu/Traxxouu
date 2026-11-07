@@ -70,10 +70,6 @@
 
 ### 📝 About Me & Stats
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### 👨‍💻 Who Am I?
 ```javascript
 const traxxouu = {
@@ -86,7 +82,7 @@ const traxxouu = {
     currentlyLearning: [
         "DevSecOps",
         "Docker & CI/CD",
-        "AWS & Security"
+        "AWS & Security",
         "Framework"
     ],
     
@@ -100,14 +96,6 @@ const traxxouu = {
 };
 ```
 
-#### 📊 GitHub Stats
-
-![Traxxouu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Traxxouu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Traxxouu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35)
-
-</td>
-<td width="50%" valign="top">
-
 <div align="center">
   <img src="./lain.gif" alt="Lain" width="450"/>
 </div>
@@ -119,9 +107,6 @@ const traxxouu = {
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hcdaqsi7zbojx6yy9stnsakne&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
 </p>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -185,5 +170,3 @@ const traxxouu = {
 
 
 ---
-
-
