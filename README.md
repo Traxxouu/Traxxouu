@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://wired-traxxouu.vercel.app/api/banner" width="100%" alt="Traxxouu"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/maelbarbe/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -6,6 +10,28 @@
     <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+<a name="wired"></a>
+
+### 🖥️ Connected to the Wired
+
+<p align="center">
+  <img src="https://wired-traxxouu.vercel.app/api/terminal" width="100%" alt="traxxouu@wired"/>
+</p>
+
+<p align="center">
+  <a href="https://wired-traxxouu.vercel.app/api/cmd?c=whoami"><img src="https://wired-traxxouu.vercel.app/api/button?c=whoami" alt="whoami"/></a>
+  <a href="https://wired-traxxouu.vercel.app/api/cmd?c=projects"><img src="https://wired-traxxouu.vercel.app/api/button?c=projects" alt="projects"/></a>
+  <a href="https://wired-traxxouu.vercel.app/api/cmd?c=stack"><img src="https://wired-traxxouu.vercel.app/api/button?c=stack" alt="stack"/></a>
+  <a href="https://wired-traxxouu.vercel.app/api/cmd?c=music"><img src="https://wired-traxxouu.vercel.app/api/button?c=music" alt="music"/></a>
+  <a href="https://wired-traxxouu.vercel.app/api/cmd?c=faceit"><img src="https://wired-traxxouu.vercel.app/api/button?c=faceit" alt="faceit"/></a>
+  <a href="https://wired-traxxouu.vercel.app/api/cmd?c=hack"><img src="https://wired-traxxouu.vercel.app/api/button?c=hack" alt="hack"/></a>
+  <a href="https://wired-traxxouu.vercel.app/api/cmd?c=lain"><img src="https://wired-traxxouu.vercel.app/api/button?c=lain" alt="lain"/></a>
+</p>
+
+<p align="center"><sub>clique une commande → le terminal affiche la dernière transmission, pour tous les visiteurs</sub></p>
+
+---
 
 ### 📊 My Activity Graph
 
@@ -96,6 +122,12 @@ const traxxouu = {
 };
 ```
 
+#### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://wired-traxxouu.vercel.app/api/stats" width="100%" alt="GitHub stats"/>
+</p>
+
 #### 🎵 Spotify Now Playing
 
 <p align="center">
@@ -150,15 +182,7 @@ const traxxouu = {
 
 
 
-### See You Space Cowboy... ☄️
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Merci+d'être+passé+!;Construisons+quelque+chose+d'incroyable;ensemble;Maël+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=footer" />
+<img src="https://wired-traxxouu.vercel.app/api/banner?type=footer" width="100%" alt="See You Space Cowboy..."/>
 
 </div>
 
