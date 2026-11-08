@@ -34,9 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="./coboy.gif" alt="Cowboy Bebop" height="230"/>
-  &nbsp;
-  <img src="./lain.gif" alt="Lain" height="230"/>
+  <img src="https://wired-traxxouu.vercel.app/api/frame?part=top" width="100%" alt="Moodboard"/><br><img src="./coboy.gif" width="50%" alt="Cowboy Bebop"/><img src="./lain.gif" width="50%" alt="Serial Experiments Lain"/><br><img src="https://wired-traxxouu.vercel.app/api/frame?part=bottom" width="100%" alt=""/>
 </p>
 
 <p align="center">
