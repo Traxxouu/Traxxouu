@@ -34,6 +34,12 @@
 </p>
 
 <p align="center">
+  <img src="./coboy.gif" alt="Cowboy Bebop" height="230"/>
+  &nbsp;
+  <img src="./lain.gif" alt="Lain" height="230"/>
+</p>
+
+<p align="center">
   <img src="https://wired-traxxouu.vercel.app/api/stats" width="100%" alt="Developer profile"/>
 </p>
 
